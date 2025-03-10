@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Act.Teste.Fazio.JoKenPo.Domain.UseCase\Act.Teste.Fazio.JoKenPo.Domain.UseCase.csproj" />
     <ProjectReference Include="..\Act.Teste.Fazio.JoKenPo.Domain.UseCase\Act.Teste.Fazio.JoKenPo.Domain.UseCase.csproj" />
   </ItemGroup>
 
